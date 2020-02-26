@@ -1,0 +1,24 @@
+body {
+  background-color:powderblue;
+}
+
+h1 {
+  color:darkgray;
+  font-family:impact;
+}
+
+p {
+  color:purple;
+  font-family:trebuchet;
+}
+img {
+  width:80%;
+  border-style:double;
+  border-width:8px;
+  border-color:gold;
+}
+table, th, td {
+  background-color:teal;
+  border-style:dashed;
+  border-width:6px;
+}
