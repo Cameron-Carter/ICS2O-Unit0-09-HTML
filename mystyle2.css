@@ -1,0 +1,17 @@
+body {
+  background-color:forestgreen;
+}
+h1 {
+  color:darkgray;
+  font-family:trebuchet;
+}
+p {
+  color:chocolate;
+  font-family:arial;
+}
+table, th, td {
+  background-color:red;
+  border-style:dashed;
+  border-width:6px;
+  color:navy;
+}
